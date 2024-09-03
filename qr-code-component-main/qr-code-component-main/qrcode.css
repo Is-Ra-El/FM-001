@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(186, 219, 248);
+    padding:48px;
+}
+.border{
+    padding: 10px;
+    margin: auto;
+    
+    align-items: center;
+    border: 2px solid black;
+    width: 210px;
+    height: 340px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+
+
+}
+img{
+    width: 208px;
+    height: 208px;
+    border-radius: 10px;
+}
+h2{
+    font-size: 18px;
+    font-weight: bold;
+    position: relative;
+    top: -10px;
+}
+.scan{
+    font-size: 14px;
+    
+}
