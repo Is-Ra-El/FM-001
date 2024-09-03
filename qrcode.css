@@ -1,6 +1,10 @@
 body{
     background-color: rgb(186, 219, 248);
     padding:48px;
+    text-align: center;
+
+}
+.attribution a { color: hsl(228, 45%, 44%);
 }
 .border{
     padding: 10px;
