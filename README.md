@@ -26,8 +26,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://is-ra-el.github.io/FM-001/)
-- Live Site URL: [Add live site URL here](https://is-ra-el.github.io/FM-001/)
+- Solution URL: (https://is-ra-el.github.io/FM-001/)
+- Live Site URL:(https://is-ra-el.github.io/FM-001/)
 
 ## My process
   the challenge was completed with basic Html and Css codes 
